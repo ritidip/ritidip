@@ -30,7 +30,7 @@
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritidip&show_icons=true&locale=en&layout=compact" alt="ritidip" /></p>--->
 
-<p><img align="LEFT" src="https://github-readme-stats.vercel.app/api?username=ritidip&show_icons=true&locale=en" alt="ritidip" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritidip&show_icons=true&locale=en" alt="ritidip" /></p>
 
-<img align="RIGHT" src="https://github-readme-streak-stats.herokuapp.com/?user=ritidip&" alt="ritidip" /></p>
+<P><img align="cente" src="https://github-readme-streak-stats.herokuapp.com/?user=ritidip&" alt="ritidip" /></p>
 
