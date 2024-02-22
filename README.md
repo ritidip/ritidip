@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Android project**
 
-- 💬 Ask me about **C , C++ , Matlab**
+- 💬 Ask me about **C , C++ , Python , Matlab**
 
 - 📫 How to reach me **dipsarkar4444@gmail.com**
 
